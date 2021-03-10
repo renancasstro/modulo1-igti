@@ -13,7 +13,7 @@ variavel_2 = [2.1,25.2,35.1,85.5,21.5]
 
 variavel_3 = {'MG':31, 'SP':35, 'RJ':33, 'ES':32}
 
-#Uso do comando type() para descoberta do tipo da variável:
+#Uso do comando type() para descobrir o tipo da variável:
 
 print(type(variavel_1))
 
