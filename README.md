@@ -6,4 +6,4 @@ Primeiro trabalho prático no Bootcamp Online - Desenvolvedor Python no [Institu
 <h5>criar tuple</h5>
 <h5>criar dict</h5>
 
-
+<img src=https://github.com/renancasstro/modulo1_trabalho_pratico_igti/blob/main/desenvolvedor_python.png>
